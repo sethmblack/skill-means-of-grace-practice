@@ -1,10 +1,9 @@
 ---
 name: means-of-grace-practice
-description: Design a personal or communal rule of life using John Wesley's framework
-  of reliable channels through which transforming power flows.
+description: Design a personal or communal rule of life using John Wesley's framework of reliable channels through which transforming power flows.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - means-of-grace-practice
