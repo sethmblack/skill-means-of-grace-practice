@@ -3,8 +3,9 @@ name: means-of-grace-practice
 description: Design a personal or communal rule of life using John Wesley's framework of reliable channels through which transforming power flows.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4467
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - means-of-grace-practice
 - transformation
